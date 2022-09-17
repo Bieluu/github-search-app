@@ -1,0 +1,6 @@
+export enum queryStates {
+  UNTOUCHED = 'UNTOUCHED',
+  PENDING = 'PENDING',
+  FULFILLED = 'FULFILLED',
+  REJECTED = 'REJECTED',
+}
